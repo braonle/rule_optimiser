@@ -1,0 +1,8 @@
+venv/
+*.json
+.DS_Store
+.idea/
+__pycache__
+dist
+*egg-info
+*.xlsx
